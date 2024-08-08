@@ -2,7 +2,7 @@
     <img alt="Header" src="https://github-widgetbox.vercel.app/api/profile?username=shadl7&data=followers,repositories,stars,commits&theme=darkmode"></img>
 </div>
 <div align="center">
-    <img alt="Skills" src="https://github-widgetbox.vercel.app/api/skills?languages=c,cpp,lua,x86,java&theme=darkmode"></img>
+    <img alt="Skills" src="https://github-widgetbox.vercel.app/api/skills?languages=c,cpp,lua,x86&theme=darkmode"></img>
 </div>
 <div align="center">
     <kbd>
